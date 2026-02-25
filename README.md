@@ -4,7 +4,7 @@
       <img src="https://github.com/user-attachments/assets/5327f00b-ca6c-4f9c-bd15-761a810f5156" width="180" style="border-radius: 20%; border: 3px solid #58a6ff;" alt="Shillat's Profile" />
       <br />
       <font size="5"><strong>Hello World! I'm Shillat</strong></font> 
-      <p><em>Software Engineering Student @ Bugema University.
+      <p><em>A Software Engineering Student @ Bugema University.
       Apart from my studies, I am deeply passionate about <strong>Project Management</strong> and <strong>Open-Source Collaboration</strong>. 🎓📚</em></p>
     </td>
     <td width="60%" valign="top">
@@ -34,4 +34,15 @@
 ### 📊 GitHub Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shillat&show_icons=true&theme=radical&hide_border=true" alt="Shillat's Stats" />
+</p>
+
+### 📊 GitHub Activity & Insights
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shillat&show_icons=true&theme=radical&hide_border=true" alt="Shillat's Stats" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shillat&layout=compact&theme=radical&hide_border=true" alt="Shillat's Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shillat&theme=radical&hide_border=true" alt="Shillat's Streak" />
 </p>
