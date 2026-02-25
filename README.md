@@ -31,14 +31,10 @@
 
 ---
 
-### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shillat&show_icons=true&theme=radical&hide_border=true" alt="Shillat's Stats" />
-</p>
 
 ### 📊 GitHub Activity & Insights
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shillat&show_icons=true&theme=radical&hide_border=true" alt="Shillat's Stats" />
+  <img height="180em" src="https://github.com/user-attachments/assets/4c99bf01-911c-4283-992f-dbb134f7a155" alt="Shillat's Stats" />
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shillat&layout=compact&theme=radical&hide_border=true" alt="Shillat's Top Languages" />
 </p>
@@ -46,3 +42,10 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shillat&theme=radical&hide_border=true" alt="Shillat's Streak" />
 </p>
+
+<img width="861" height="647" alt="image" src="https://github.com/user-attachments/assets/4c99bf01-911c-4283-992f-dbb134f7a155" />
+<img width="790" height="617" alt="image" src="https://github.com/user-attachments/assets/0561d159-6845-4e66-add2-5fe2891f1856" />
+<img width="781" height="549" alt="image" src="https://github.com/user-attachments/assets/50fa5510-f2a0-44d6-9165-a50a1f246dfd" />
+
+
+
