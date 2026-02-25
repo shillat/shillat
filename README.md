@@ -1,17 +1,15 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Hello%20World%20👋&fontSize=70" />
-</p>
+
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5327f00b-ca6c-4f9c-bd15-761a810f5156" width="150" style="border-radius: 20%; border: 3px solid #58a6ff;" alt="Shillat's Profile" />
 </p>
 
 <p align="center">
-  <font size="5"><strong>It's Shillat!</strong></font>
+  <font size="5"><strong>Hello World!</strong></font>
 </p>
 
 <p align="center">
-  Hi, I'm <strong>Shillat</strong> 🙌, a <strong>Software Engineering Student</strong> at Bugema University. 
+  I'm <strong>Shillat</strong> 🙌, a <strong>Software Engineering Student</strong> at Bugema University. 
   Apart from my studies, I am deeply passionate about <strong>Project Management</strong> and <strong>Open-Source Collaboration</strong>. 🎓📚
 </p>
 
