@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5327f00b-ca6c-4f9c-bd15-761a810f5156" width="150" style="border-radius: 50%; border: 3px solid #58a6ff;" alt="Shillat's Profile" />
+  <img src="https://github.com/user-attachments/assets/5327f00b-ca6c-4f9c-bd15-761a810f5156" width="150" style="border-radius: 20%; border: 3px solid #58a6ff;" alt="Shillat's Profile" />
 </p>
 
 <p align="center">
