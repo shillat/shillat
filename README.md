@@ -10,7 +10,7 @@
     <td width="60%" valign="top">
       <h3>📝 Professional Overview</h3>
       <ul>
-        <li>🌱 <strong>Learning Path:</strong> Diving deeper into Data Structures and AI Ethics.</li>
+        <li>🌱 <strong>Learning Path:</strong> I am diving deeper into Data Structures and AI Ethics.</li>
         <li>✨ <strong>Expertise:</strong> Project Documentation and Leadership.</li>
         <li>💬 <strong>Ask me about:</strong> JS, Academic Research, or UI/UX Design.</li>
         <li>📫 <strong>Contact:</strong> <a href="mailto:shillahnaigaga5@gmail.com">shillahnaigaga5@gmail.com</a></li>
