@@ -20,7 +20,7 @@
   </tr>
 </table>
 
----
+
 
 ### 🛠 Languages and Tools
 <p align="left">
@@ -29,10 +29,15 @@
   </a>
 </p>
 
----
+
 
 
 ### 📊 GitHub Activity & Insights
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Stats_Last_Updated-February_2026-informational?style=flat-square&logo=github" alt="Last Updated">
+</p>
+
 <p align="center">
   <img height="180em" src="https://github.com/user-attachments/assets/4c99bf01-911c-4283-992f-dbb134f7a155" alt="Shillat's Stats" />
   
@@ -44,8 +49,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shillat&theme=radical&hide_border=true" alt="Shillat's Streak" />
 </p>
-
-
 
 
 
